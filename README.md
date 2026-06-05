@@ -59,4 +59,4 @@ Andrew D. Wickert
 
 ## License
 
-GPL >= 2 — see [COPYING](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+GPL v3 — see [LICENSE](LICENSE)
